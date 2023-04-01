@@ -1,0 +1,19 @@
+.final {
+    position: relative;
+}
+.content {
+    width: 1200px;
+    height: 728px;
+    text-align: center;
+}
+.back, .content {
+    position: absolute;
+}
+.text {
+    font-size: 54px ;
+    line-height: 60px;
+    color: white;
+    width: 495px;
+   margin: auto;
+   margin-top: 283px;
+}

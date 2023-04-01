@@ -1,0 +1,35 @@
+.background {
+    position: relative;
+}
+.back, .info {
+    position: absolute;
+}
+
+.info {
+    margin-left: 48px;
+}
+
+.text {
+    line-height: 72px;
+    font-size: 72px;
+    font-weight: 400;
+    color: white;
+    margin-top: 140px;
+    max-width: 513px;
+}
+
+.text_small {
+    font-size: 20px;
+    line-height: 24px;
+    color: white;
+    max-width: 412px;
+}
+
+.button {
+    color: white;
+    background-color: #0033FF;
+    padding: 16px 32px ;
+    border-radius: 8px;
+    border: none;
+    margin-top: 44px;
+}

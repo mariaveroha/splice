@@ -1,0 +1,44 @@
+.dig {
+    height: 482px;
+    background-color: #121214;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.image {
+    margin-left: 48px;
+}
+
+.info {
+    margin-right: 48px;
+    text-align: right;
+}
+.subTitle {
+    color: #A6A8AD;
+    font-size: 12px;
+    line-height: 14px;
+    font-weight: 400;
+    margin-bottom: 5px;
+}
+.title {
+    color: #FFFFFF;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 36px;
+    margin-top: 0;
+    margin-bottom: 12px;
+}
+.text {
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+    max-width: 441px;
+    margin-bottom: 18px;
+}
+.button {
+    background-color: #0033FF;
+    color: #FFFFFF;
+    border: none;
+    padding: 5px 20px 7px 20px;
+    border-radius: 8px;
+}

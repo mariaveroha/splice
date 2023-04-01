@@ -1,0 +1,41 @@
+.footer {
+    height: 375px;
+    background-color: #121214;
+    margin-top: 728px;
+    padding: 48px;
+}
+p {
+    margin: 0;
+}
+.columns {
+    display: flex;
+    justify-content: space-between;
+}
+.title, .titleSecond {
+    font-size: 20px;
+    line-height: 24px;
+    color: white;
+    margin-bottom: 12px;
+}
+.titleSecond {
+    margin-top: 24px;
+}
+.item {
+    color: #A6A8AD;
+    font-size: 12px;
+    line-height: 18px;
+    margin-bottom: 11px;
+}
+
+.info {
+    display: flex;
+    justify-content: start;
+    color: #A6A8AD;
+    font-size: 12px;
+    line-height: 18px;
+    margin-top: 83px;
+}
+
+.point {
+    margin-right: 24px;
+}
